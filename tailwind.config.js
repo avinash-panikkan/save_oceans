@@ -12,8 +12,15 @@ export default {
       backdropBrightness: {
         25: '.25',
         175: '1.75',
-      }
+      },
+      colors: {
+        primary: '#353b8e',
+        secondary: '#50b0de',
+      },
+      // fontFamily: {
+      //   'poppins': ['Poppins', 'sans'],
+      // },
     },
   },
-  plugins: [],
+  // plugins: [require('@tailwindcss/typography')],
 }
