@@ -9,7 +9,7 @@ function Home() {
       </div>
       <div className="flex w-full h-[300px] mt-10" >
         <div className="group relative w-1/3 flex items-center justify-center">
-        <img className="w-5/6 transition-transform transform scale-100 group-hover:scale-250" src="../public/images/beauty_of_oceans.jpg" alt="beauty of oceans" />
+        <img className="w-5/6 rounded-lg" src="../public/images/beauty_of_oceans.jpg" alt="beauty of oceans" />
         </div>
         <div className="w-2/3 pt-10 pl-6">
             <p className="font-bold text-6xl text-primary">The Beauty Of Oceans</p>
@@ -32,7 +32,7 @@ function Home() {
             deserving our utmost care and preservation.</p>
         </div>
         <div className=" w-1/3 flex items-center justify-center pt-5">
-        <img className="w-5/6" src="../public/images/1489.jpg" alt="beauty of oceans" />
+        <img className="w-5/6 rounded-lg" src="../public/images/1489.jpg" alt="beauty of oceans"/>
         </div>
       </div>
     </div>
